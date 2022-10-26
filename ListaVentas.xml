@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<!DOCTYPE ListaVentas SYSTEM "ListaVentas.dtd">
+<ListaVentas>
+    <ventas>
+        <importe>NBF3RBZY</importe>
+        <comprador>Elkin Alberto Osorio J.</comprador>
+        <vendedor>Juan Carlos Guerra</vendedor>
+        <fecha>24-10-2022</fecha>
+        <codigoFactura>FE1020</codigoFactura>
+    </ventas>
+</ListaVentas>
